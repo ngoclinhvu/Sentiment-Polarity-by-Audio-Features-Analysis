@@ -1,4 +1,4 @@
 # Sentiment-Polarity-by-Audio-Features-Analysis
-A speech synthesis model to score audio recordings from literacy screener exercises
+A deep learning model for sentiment polarity classification from audio features
 
-Extracted audio features and expected text embeddings to predict the correctness of the child's spoken response
+Performed hyperparameter tuning to improve sentiment polarity accuracy by analyzing time and accuracy across different network architectures and batch sizes
